@@ -28,3 +28,21 @@ We learned the importance and understanding the goal that we are all working tow
 
 ## What's next for Remy
 We're eager to improve it further and make it even better. Our goal is to reach more people and have our app used in kitchens and stores, everywhere.
+
+---
+## Getting Started with Create React App
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To learn React, check out the [React documentation](https://reactjs.org/).

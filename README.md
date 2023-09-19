@@ -9,6 +9,8 @@ _"Okay Chef, what's the next step?"_
 _"Okay Chef, I don't have curry. What can I use instead?"_  
 _"Okay Chef, Done!"_ 
 
+This app was built during HackZurich 2023 within less than 24h from idea to product.
+
 ## What it does
 Remy is an LLM powered voice assistant for the kitchen. The user can simply tell Remy what they're cooking (per URL to an online recipe or prompt it with an idea for a dish), Remy will interactively talk the user through every step of the recipe, allowing hand-free interaction. Additionally, as the user gathers ingredients, Remy suggests Migros’ sustainable alternatives, weaving sustainability effortlessly into the kitchen routine. The user can choose the voice that the narrator uses (Default, Authentic, Gordon Ramsay).
 

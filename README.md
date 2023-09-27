@@ -19,6 +19,9 @@ Remy is an LLM powered voice assistant for the kitchen. The user can simply tell
 ## How we built it
 At the core, LLM powers our back-end, deftly processing recipes, extracting ingredients, and suggesting alternatives, while adeptly navigating user prompts. Voice interaction? We leaned into the Web Speech API for flawless speech-to-text conversion, and chose Eleven-Labs to breathe life into the text, translating it back to guiding voices. The facade you interact with is sculpted using React-JS, housed comfortably on Firebase. And that touch of sustainability? It’s data-driven, with a nod to Migro's comprehensive products dataset.
 
+![WhatsApp Image 2023-09-18 at 16 59 11](https://github.com/SimonIyamu/Remy-Your-cooking-voice-assistant/assets/28822566/bbae241d-4cdb-4001-92a7-b623a319d36f)
+
+
 ## Challenges we ran into
 We often lost focus, wanting to do too much at once. Combining our work was challenging. Understanding and responding to natural speech, like knowing when to listen, was hard. Setting up the app for everyone to use gave us headaches. And figuring out the best way to handle recipe prompts took a lot of time and effort. Goal setting and delivering a specific result by a certain time proved to be a challenge.
 
